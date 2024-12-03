@@ -1,5 +1,4 @@
-intents = {
-  "intents": [
+ [
     {
       "tag": "greeting",
       "patterns": ["Hi", "Hello", "Hey", "Good day", "How are you?"],
